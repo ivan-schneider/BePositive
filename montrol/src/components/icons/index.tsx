@@ -1,0 +1,6 @@
+export { default as History } from "./transfer.svg"
+export { default as Anual } from "./2025-year-calendar.svg"
+export { default as Month } from "./month.svg"
+export { default as Settings } from "./settings.svg"
+export { default as Chart } from "./chart.svg"
+export { default as Transaction } from "./transaction.svg"
